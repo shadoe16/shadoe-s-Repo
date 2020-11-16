@@ -1,2 +1,2 @@
 # shadoe
-my repository..
+my repo..
